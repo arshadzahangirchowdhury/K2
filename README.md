@@ -1,2 +1,2 @@
 # everest
-Notebooks for machine learning class Fall 2025
+Notebooks for machine learning class Fall 2026
